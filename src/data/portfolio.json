@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/React-PortfolioWebsite.png",
+            "title": "Portfolio website for my portfolio",
+            "description": "Coded using ReactJs, Javascript, and SCSS",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/portfolio/2/Java-BankManagement.png",
+            "title": "Backend for a bank management system",
+            "description": "Coded using Java",
+            "url": "https://github.com/NKeng12/BankAccountManagementSystem"
+        },
+        {
+            "cover": "/portfolio/3/Python-CarDealership.png",
+            "title": "Backend for a car management system",
+            "description": "Coded using Python for a project in Poly year 2",
+            "url": "https://github.com/NKeng12/CarDealershipManagementSystem"
+        },
+        {
+            "cover": "/portfolio/4/HTML-VinylWebsite.png",
+            "title": "Website for an online Vinyl shop",
+            "description": "Coded using HTML for a project in Poly year 1",
+            "url": "https://github.com/NKeng12/VinylWebsite"
+        }
+    ]
+}
