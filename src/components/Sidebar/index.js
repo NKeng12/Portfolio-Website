@@ -24,12 +24,12 @@ const Sidebar = () => (
         </nav>
         <ul>
             <li>
-                <a target="_blank" rel="noreffer" href="https://www.linkedin.com/in/nicholas-ewan-keng-789560284/">
+                <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/nicholas-ewan-keng-789560284/">
                     <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
                 </a>
             </li>
             <li>
-                <a target="_blank" rel="noreffer" href="https://github.com/NKeng12">
+                <a target="_blank" rel="noreferrer" href="https://github.com/NKeng12">
                     <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
                 </a>
             </li>

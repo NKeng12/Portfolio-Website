@@ -1,7 +1,7 @@
 import React from 'react';
 import './index.scss';
 import Loader from 'react-loaders';
-import { useEffect, useState, useRef } from 'react';
+import { useEffect, useState } from 'react';
 import AnimatedLetters from '../AnimateLetters';
 import portfolioData from '../../data/portfolio.json'
 

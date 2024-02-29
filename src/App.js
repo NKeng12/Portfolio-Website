@@ -10,14 +10,13 @@ function App() {
   return (
     <>
       <Routes>
-        {}
         <Route path="/" element={<Layout />}>
-          {}
           <Route index element={<Home />} />
-          {}
-          <Route path = "about" index element={<About />} />
-          <Route path = "contact" index element={<Contact />} />
-          <Route path = "portfolio" index element={<Portfolio />} />
+          <Route path="about" index element={<About />} />
+          <Route path="contact" index element={<Contact />} />
+          <Route path="portfolio" index element={<Portfolio />} />
+          {/* Add the following route for the Portfolio-Website */}
+          <Route path="Portfolio-Website" element={<Home />} />
         </Route>
       </Routes>
     </>
